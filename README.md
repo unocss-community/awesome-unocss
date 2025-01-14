@@ -58,7 +58,7 @@ A curated list of awesome things related to <a href='https://github.com/unocss/u
 
 ### Presets
 
-- [unocss-preset-scalpel](https://github.com/macheteHot/unocss-preset-scalpel) - Scalpel Preset by [@macheteHot](https://github.com/macheteHot/).
+- [unocss-preset-scalpel](https://github.com/macheteHot/unocss-preset-scalpel) - Scalpel Preset by [@macheteHot](https://github.com/macheteHot).
 - [unocss-preset-chroma](https://github.com/chu121su12/unocss-preset-chroma) - Gradient Preset by [@chu121su12](https://github.com/chu121su12).
 - [unocss-preset-scrollbar](https://github.com/action-hong/unocss-preset-scrollbar) - Scrollbar Preset by [@action-hong](https://github.com/action-hong).
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet) - Using UnoCSS in applet (UniApp / Taro) by [@zguolee](https://github.com/zguolee).
@@ -68,7 +68,7 @@ A curated list of awesome things related to <a href='https://github.com/unocss/u
 - [unocss-preset-forms](https://github.com/Julien-R44/unocss-preset-forms) - Port of [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) for UnoCSS by [@Julien-R44](https://github.com/Julien-R44).
 - [unocss-preset-extra](https://github.com/MoomFE/unocss-preset-extra) - [Animate.css](https://animate.style) Preset and some other rules by [@Zhang-Wei-666](https://github.com/Zhang-Wei-666).
 - [unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - daisyUI Preset by [@kidonng](https://github.com/kidonng).
-- [unocss-preset-primitives](https://github.com/zirbest/unocss-preset-primitives) - Like [headlessui-tailwindcss](https://github.com/tailwindlabs/headlessui/tree/main/packages/%40headlessui-tailwindcss) , radix-ui , custom for UnoCSS By [@zirbest](https://github.com/zirbest).
+- [unocss-preset-primitives](https://github.com/zirbest/unocss-preset-primitives) - Like [headlessui-tailwindcss](https://github.com/tailwindlabs/headlessui/tree/main/packages/%40headlessui-tailwindcss), radix-ui, custom for UnoCSS by [@zirbest](https://github.com/zirbest).
 - [unocss-preset-theme](https://github.com/Dunqing/unocss-preset-theme) - Preset for automatic theme switching by [@Dunqing](https://github.com/Dunqing).
 - [unocss-preset-chinese](https://github.com/kirklin/unocss-preset-chinese) - Preset for Chinese fonts by [@kirklin](https://github.com/kirklin).
 - [unocss-preset-autoprefixer](https://github.com/zouhangwithsweet/unocss-preset-autoprefixer) - Autoprefixer Preset by [@zouhang](https://github.com/zouhangwithsweet).
@@ -84,11 +84,13 @@ A curated list of awesome things related to <a href='https://github.com/unocss/u
 - [unocss-preset-block](https://github.com/unpreset/unocss-preset-block) - Block some non-standard classnames by [@chizuki](https://github.com/chizukicn).
 - [unocss-preset-animations](https://unocss-preset-animations.aelita.me/) - Preset for flexible and composable animations by [@Aelita](https://github.com/xsjcTony).
 - [unocss-preset-shadcn](https://github.com/hyoban/unocss-preset-shadcn#readme) - Use [shadcn/ui](https://ui.shadcn.com) with UnoCSS by [@zouhang](https://github.com/zouhangwithsweet) and [@hyoban](https://github.com/hyoban).
-- [@yeungkc/unocss-preset-safe-area](https://github.com/YeungKC/unocss-preset-safe-area) - Use safe area with Unocss by [YeungKC](https://github.com/YeungKC)
-- [@unifydev/unify-preset](https://github.com/unify-ui-dev/unify-preset/blob/main/README.md) - Atomic Theming UI Libray Powered By UnoCSS, like DaisyUI but customizable. By [@johnkat-mj](https://github.com/Johnkat-Mj)
-- [unocss-preset-tailwindcss-motion](https://github.com/whatnickcodes/unocss-preset-tailwindcss-motion) - Ridiculously awesome animations via unoffical [Tailwind Motion](https://rombo.co/tailwind) port, by [@whatnicktweets](https://x.com/whatnicktweets)
-- [unocss-preset-magicss](https://github.com/unpreset/unocss-preset-magicss) - Integrate magic css animation preset by [@zyyv](https://github.com/zyyv)
-- [css-fade](https://www.npmjs.com/package/css-fade) - Fade out one or multiple sides of html elements using CSS mask in UnoCSS by [@dan-smt](https://github.com/dan-smt)
+- [@yeungkc/unocss-preset-safe-area](https://github.com/YeungKC/unocss-preset-safe-area) - Use safe area with Unocss by [YeungKC](https://github.com/YeungKC).
+- [@unifydev/unify-preset](https://github.com/unify-ui-dev/unify-preset/blob/main/README.md) - Atomic Theming UI Library Powered By UnoCSS, like DaisyUI but customizable. By [@johnkat-mj](https://github.com/Johnkat-Mj).
+- [unocss-preset-tailwindcss-motion](https://github.com/whatnickcodes/unocss-preset-tailwindcss-motion) - Ridiculously awesome animations via unofficial [Tailwind Motion](https://rombo.co/tailwind) port, by [@whatnicktweets](https://x.com/whatnicktweets).
+- [unocss-preset-magicss](https://github.com/unpreset/unocss-preset-magicss) - Integrate magic css animation preset by [@zyyv](https://github.com/zyyv).
+- [css-fade](https://www.npmjs.com/package/css-fade) - Fade out one or multiple sides of html elements using CSS mask in UnoCSS by [@dan-smt](https://github.com/dan-smt).
+- [unocss-preset-gradient-fn](https://github.com/onmax/unocss-preset-gradient-fn) - Support gradient transitions and gradient easing functions. Preset by [@onmax](https://github.com/onmax).
+- [unocss-preset-scale-px](https://github.com/onmax/unocss-preset-scale-px) - Numeric values are the same as px by [@onmax](https://github.com/onmax).
 
 ### Frameworks
 
