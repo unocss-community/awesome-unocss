@@ -92,6 +92,7 @@ A curated list of awesome things related to <a href='https://github.com/unocss/u
 - [css-fade](https://www.npmjs.com/package/css-fade) - Fade out one or multiple sides of html elements using CSS mask in UnoCSS by [@dan-smt](https://github.com/dan-smt).
 - [unocss-preset-gradient-fn](https://github.com/onmax/unocss-preset-gradient-fn) - Support gradient transitions and gradient easing functions. Preset by [@onmax](https://github.com/onmax).
 - [unocss-preset-scale-px](https://github.com/onmax/unocss-preset-scale-px) - Numeric values are the same as px by [@onmax](https://github.com/onmax).
+- [unocss-preset-advance-gradients](https://github.com/itsmnthn/unocss-preset-advance-gradients) - Support rounded gradient borders, gradient text and pre-defined gradients. By [@itsmnthn](https://github.com/itsmnthn).
 
 ### Frameworks
 
