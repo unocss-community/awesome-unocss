@@ -94,6 +94,7 @@ A curated list of awesome things related to <a href='https://github.com/unocss/u
 - [unocss-preset-gradient-fn](https://github.com/onmax/unocss-preset-gradient-fn) - Support gradient transitions and gradient easing functions. Preset by [@onmax](https://github.com/onmax).
 - [unocss-preset-scale-px](https://github.com/onmax/unocss-preset-scale-px) - Numeric values are the same as px by [@onmax](https://github.com/onmax).
 - [unocss-preset-advance-gradients](https://github.com/itsmnthn/unocss-preset-advance-gradients) - Support rounded gradient borders, gradient text and pre-defined gradients. By [@itsmnthn](https://github.com/itsmnthn).
+- [unocss-preset-better-breakpoints](https://github.com/ZaneL1u/unocss-preset-better-breakpoints) - Better breakpoints presets for UnoCSS. By [@ZaneL1u](https://github.com/ZaneL1u).
 
 ### Frameworks
 
