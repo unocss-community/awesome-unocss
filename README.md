@@ -30,7 +30,8 @@ A curated list of awesome things related to <a href='https://github.com/unocss/u
 | <del> [@unocss/preset-uno](/presets/uno) </del> | The default preset | Deprecated: Use `presetWind3` from `@unocss/preset-wind3` instead in @66.0.0 |
 | [@unocss/preset-mini](/presets/mini) | The minimal but essential rules and variants | |
 | <del> [@unocss/preset-wind](/presets/wind) </del> | Tailwind CSS / Windi CSS compact preset | Deprecated: Use `presetWind3` from `@unocss/preset-wind3` instead in @66.0.0 |
-| [@unocss/preset-wind3](/presets/wind) | Tailwind CSS3 / Windi CSS compact preset | |
+| [@unocss/preset-wind3](/presets/wind3) | Tailwind CSS / Windi CSS compact preset | |
+| [@unocss/preset-wind4](/presets/wind4) | Tailwind4 CSS compact preset | |
 | [@unocss/preset-attributify](/presets/attributify) | Enables Attributify Mode for other rules | |
 | [@unocss/preset-tagify](/presets/tagify) | Enables Tagify Mode for other rules | |
 | [@unocss/preset-icons](/presets/icons) | Pure CSS Icons solution powered by Iconify | |
