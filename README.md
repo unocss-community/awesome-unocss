@@ -96,6 +96,7 @@ A curated list of awesome things related to <a href='https://github.com/unocss/u
 - [unocss-preset-scale-px](https://github.com/onmax/unocss-preset-scale-px) ![GitHub Repo stars](https://img.shields.io/github/stars/onmax/unocss-preset-scale-px) - Numeric values are the same as px by [@onmax](https://github.com/onmax).
 - [unocss-preset-advance-gradients](https://github.com/itsmnthn/unocss-preset-advance-gradients) ![GitHub Repo stars](https://img.shields.io/github/stars/itsmnthn/unocss-preset-advance-gradients) - Support rounded gradient borders, gradient text and pre‑defined gradients. By [@itsmnthn](https://github.com/itsmnthn).
 - [unocss-preset-better-breakpoints](https://github.com/ZaneL1u/unocss-preset-better-breakpoints) ![GitHub Repo stars](https://img.shields.io/github/stars/ZaneL1u/unocss-preset-better-breakpoints) - Better breakpoints presets for UnoCSS. By [@ZaneL1u](https://github.com/ZaneL1u).
+- [unocss-preset-utopia-core](https://github.com/azbestoid/unocss-preset-utopia-core) ![GitHub Repo stars](https://img.shields.io/github/stars/azbestoid/unocss-preset-utopia-core) - Fluid typography and spacing using Utopia.fyi. By [@azbestoid](https://github.com/azbestoid).
 
 ### Frameworks
 
