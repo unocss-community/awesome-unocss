@@ -98,6 +98,7 @@ A curated list of awesome things related to <a href='https://github.com/unocss/u
 - [unocss-preset-better-breakpoints](https://github.com/ZaneL1u/unocss-preset-better-breakpoints) ![GitHub Repo stars](https://img.shields.io/github/stars/ZaneL1u/unocss-preset-better-breakpoints) - Better breakpoints presets for UnoCSS. By [@ZaneL1u](https://github.com/ZaneL1u).
 - [unocss-preset-nuxt-ui](https://github.com/lehuuphuc/unocss-preset-nuxt-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/lehuuphuc/unocss-preset-nuxt-ui) - The preset that makes using UnoCSS with Nuxt UI effortless. By [@lehuuphuc](https://github.com/lehuuphuc).
 - [unocss-preset-utopia-core](https://github.com/azbestoid/unocss-preset-utopia-core) ![GitHub Repo stars](https://img.shields.io/github/stars/azbestoid/unocss-preset-utopia-core) - Fluid typography and spacing using Utopia.fyi. By [@azbestoid](https://github.com/azbestoid).
+- [unocss-preset-fluentui](https://github.com/CollaStack/unocss-preset-fluentui) ![GitHub Repo stars](https://img.shields.io/github/stars/CollaStack/unocss-preset-fluentui) - Fluent UI design tokens as utility classes for UnoCSS. By [@CollaStack](https://github.com/CollaStack).
 
 ### Frameworks
 
