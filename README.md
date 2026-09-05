@@ -100,6 +100,7 @@ A curated list of awesome things related to <a href='https://github.com/unocss/u
 - [unocss-preset-utopia-core](https://github.com/azbestoid/unocss-preset-utopia-core) ![GitHub Repo stars](https://img.shields.io/github/stars/azbestoid/unocss-preset-utopia-core) - Fluid typography and spacing using Utopia.fyi. By [@azbestoid](https://github.com/azbestoid).
 - [unocss-preset-fluentui](https://github.com/CollaStack/unocss-preset-fluentui) ![GitHub Repo stars](https://img.shields.io/github/stars/CollaStack/unocss-preset-fluentui) - Fluent UI design tokens as utility classes for UnoCSS. By [@link-duan](https://github.com/link-duan).
 - [unocss-preset-magicolor](https://github.com/nixwai/unocss-preset-magicolor) ![GitHub Repo stars](https://img.shields.io/github/stars/nixwai/unocss-preset-magicolor) - Extend UnoCSS colors with arbitrary depths and theme configuration. By [@nixwai](https://github.com/nixwai).
+- [unocss-preset-motion](https://github.com/ManUtopiK/unocss-preset-motion) ![GitHub Repo stars](https://img.shields.io/github/stars/ManUtopiK/unocss-preset-motion) - View Transitions and Scroll-Driven Animations for UnoCSS by [@ManUtopiK](https://github.com/ManUtopiK).
 
 ### Frameworks
 
