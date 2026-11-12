@@ -116,6 +116,7 @@ A curated list of awesome things related to <a href='https://github.com/unocss/u
 - [CSS to UnoCss](https://github.com/Simon-He95/transformToUnoCSS) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/transformToUnoCSS) - Transform CSS to Unocss by [@Simon-He95](https://github.com/Simon-He95).
 - [unocss-transformer-classnames-minifier](https://github.com/alisobirjanov/unocss-transformer-classnames-minifier) ![GitHub Repo stars](https://img.shields.io/github/stars/alisobirjanov/unocss-transformer-classnames-minifier) - Transform UnoCSS classnames minifier by [@alisobirjanov](https://github.com/alisobirjanov).
 - [unocss-transformer-hash](https://github.com/unpreset/unocss-transformer-hash) ![GitHub Repo stars](https://img.shields.io/github/stars/unpreset/unocss-transformer-hash) - Hash UnoCSS utilities by [@zyyv](https://github.com/zyyv).
+- [unocss-build-themes](https://github.com/AndrewBogdanovTSS/unocss-build-themes) ![GitHub Repo stars](https://img.shields.io/github/stars/AndrewBogdanovTSS/unocss-build-themes) - Build-time themes for white-label products: removes inactive theme classes from HTML, JS and CSS, one build per customer, by [@AndrewBogdanovTSS](https://github.com/AndrewBogdanovTSS).
 
 ### Tools
 
